@@ -64,15 +64,15 @@
 
 - Fix time "enderite ore into enderite scrap"
 
-Download in my website: [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Google%20Sites.png)](https://sites.google.com/view/experiments-2010/home)
-Legacy CurseForge: [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Legacy%20CurseForge.png)](https://legacy.curseforge.com/minecraft/mc-mods/explosive-block-and-crackers-wither-storm-mod-and-enderite-mod)
-CurseForge: [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/explosive-block-and-crackers-wither-storm-mod-and-enderite-mod)
-MediaFire: [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MediaFire.png)](https://www.mediafire.com/folder/8o7fggzm80ppn/My_mods)
-Modrinth: [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Modrinth.png)](https://modrinth.com/mod/explosive-block-crackers-wither-storm-mod)
-MCreator: [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator.png)](https://mcreator.net)
-MCreator Link: [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator_Link.png)](https://mcreator.net/download/link)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Google%20Sites.png)](https://sites.google.com/view/experiments-2010/home)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Legacy%20CurseForge.png)](https://legacy.curseforge.com/minecraft/mc-mods/explosive-block-and-crackers-wither-storm-mod-and-enderite-mod)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/explosive-block-and-crackers-wither-storm-mod-and-enderite-mod)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MediaFire.png)](https://www.mediafire.com/folder/8o7fggzm80ppn/My_mods)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Modrinth.png)](https://modrinth.com/mod/explosive-block-crackers-wither-storm-mod)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator.png)](https://mcreator.net)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator_Link.png)](https://mcreator.net/download/link)
 
-                            [![release tab](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/RELEASE_TAB.png)](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/releases/tag/933653)
+[![release tab](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/RELEASE_TAB.png)](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/releases/tag/933653)
 <!---
 SuperHero2010/SuperHero2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
