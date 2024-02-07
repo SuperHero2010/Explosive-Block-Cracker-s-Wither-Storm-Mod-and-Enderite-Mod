@@ -30,7 +30,7 @@
 
 - Recipe tutorial in images
 
-- Recipe tutorial download: in "Additional Files"
+- Recipe tutorial download: in "Release Tab"
 
 - Everyone just follow the number of explosive blocks in my creative inventory tab (except the explosive blocks that already have recipes) and then discard them all (except the 4 hard blocks that must use diamond pickaxe and the 2 hardest blocks in minecraft that must be used formidibomb) into the TNT Smithing Table (1.19.4 V2, 1.19.2 V3, 1.18.2 V2)
 
