@@ -73,7 +73,7 @@
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator.png)](https://mcreator.net)
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator_Link.png)](https://mcreator.net/download/link)
 
-[![release tab](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/RELEASE_TAB.png)](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/releases/tag/933653)
+[![release tab_title_outline_large](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/RELEASE_TAB.png)](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/releases/tag/933653)
 <!---
 SuperHero2010/SuperHero2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
