@@ -6,6 +6,10 @@
 
 - Add Explosive Block, Weapon, New Items, Recipe, New Trap
 
+- I have a discord account
+
+- John discord (New link) [Here](https://discord.gg/BCY3j38d)
+
 - Error Items:
 
 - Amulet:
