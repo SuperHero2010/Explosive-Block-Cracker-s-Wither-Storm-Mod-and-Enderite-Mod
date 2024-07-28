@@ -8,7 +8,7 @@
 
 - I have a discord account
 
-- John discord (New link) [Here](https://discord.gg/BCY3j38d)
+- John discord (New link) [Here](https://discord.gg/wYpqH4SRsp)
 
 - Error Items:
 
