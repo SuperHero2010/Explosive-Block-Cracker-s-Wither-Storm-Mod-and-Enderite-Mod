@@ -1,36 +1,16 @@
-- 👋 Hi, I’m @SuperHero2010
-- 👀 I’m interested in "nonamecrackers2"
-- 🌱 I’m currently making mod
-- ⚡ Relation: Cracker's Wither Storm Mod and Enderite Mod
-- This mod is add for Cracker's Wither Storm Mod and Enderite Mod
+👋 Hi, I’m @SuperHero2010
+👀 I’m interested in "nonamecrackers2"
+🌱 I’m currently making mod
+⚡ Relation: Cracker's Wither Storm Mod and Enderite Mod
+This mod is add for Cracker's Wither Storm Mod and Enderite Mod
 
-- Add Explosive Block, Weapon, New Items, Recipe, New Trap
+Add Explosive Block, Weapon, New Items, Recipe, New Trap
 
-- I have a discord account
+I have a discord account
 
-- John discord (New link) [Here](https://discord.gg/wYpqH4SRsp)
-
-- Error Items:
-
-- Amulet:
-
-+ Amulet can't swap
-
-+ Amulet can't flashing
-
-+ Because I don't know how to make
-
-- Command Block Books and Command Block Dust:
-
-+ No Command Block Effect Particles
-
-+ Because I don't know how to make Effect Particles
-
-- Nuclear TNT is repair 
+Join discord (New link) [Here](https://discord.gg/wYpqH4SRsp)
 
 - I work alone but I don't work with "nonamecrackers2"
-
-- I using mod maker Mcreator 2023.3, 2023.4, 2023.1, 2022.2
 
 - Recipe tutorial in images
 
@@ -40,7 +20,7 @@
 
 - I delete TNT Smithing Table and Command Block Smithing Table
 
-- Get explosive block? Click button in your keyboard:
+- Get explosive block? Click button in your keyboard (Old):
 
 + N: Natural
 
@@ -58,21 +38,11 @@
 
 + I: Ender
 
-- Repair Open Bear Trap with Axe
-
-- Command Block Tools Crafting use smithing table
-
-- Fix Nugget recipe
-
-- Fix Command Block recipe
-
-- Fix time "enderite ore into enderite scrap"
-
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Google%20Sites.png)](https://sites.google.com/view/experiments-2010/home)
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Legacy%20CurseForge.png)](https://legacy.curseforge.com/minecraft/mc-mods/explosive-block-and-crackers-wither-storm-mod-and-enderite-mod)
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/CurseForge.png)](https://www.curseforge.com/minecraft/mc-mods/explosive-block-and-crackers-wither-storm-mod-and-enderite-mod)
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MediaFire.png)](https://www.mediafire.com/folder/8o7fggzm80ppn/My_mods)
-[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Modrinth.png)](https://modrinth.com/mod/explosive-block-crackers-wither-storm-mod)
+[![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/Modrinth.png)](https://modrinth.com/mod/explosive-block-crackers-wither-storm-mod-and-enderite-mod)
 
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator.png)](https://mcreator.net)
 [![Here](https://github.com/SuperHero2010/Explosive-Block-Cracker-s-Wither-Storm-Mod-/blob/main/MCreator_Link.png)](https://mcreator.net/download/link)
