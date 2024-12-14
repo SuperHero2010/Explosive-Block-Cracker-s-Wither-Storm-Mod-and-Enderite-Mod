@@ -12,7 +12,7 @@ Add Explosive Block, Weapon, New Items, Recipe, New Trap
 
 I have a discord account
 
-Join discord (New link) [Here](https://discord.gg/wYpqH4SRsp)
+Join discord [Here](https://discord.gg/5BWTwGf8Rt)
 
 - I work alone but I don't work with "nonamecrackers2"
 
